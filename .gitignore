@@ -1,0 +1,8 @@
+# arquivos de dados grandes (ficam só no meu computador)
+*.csv
+*.db
+*.sqlite
+
+# arquivos temporários do Python
+__pycache__/
+.ipynb_checkpoints/
