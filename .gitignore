@@ -6,3 +6,5 @@
 # arquivos temporários do Python
 __pycache__/
 .ipynb_checkpoints/
+
+anotacoes.md
